@@ -1,0 +1,7 @@
+streamlit
+opencv-python
+ultralytics
+pygame
+SpeechRecognition
+pyttsx3
+pyaudio
