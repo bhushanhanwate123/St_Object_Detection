@@ -31,7 +31,7 @@ frame_placeholder = st.empty()
 
 if st.session_state.run:
 
-    cap = cv2.VideoCapture(0)
+    cap = cv2.VideoCapture(1)
 
     if not cap.isOpened():
         st.error("Camera not accessible")
